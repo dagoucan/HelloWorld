@@ -1,1 +1,3 @@
 add a file directly from github, see if i can use git pull command to receive it.
+
+Yes! I succesfully received the latest version by using command "git pull".
